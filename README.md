@@ -1,4 +1,4 @@
-# 🏎️ iRacer — As melhores ligas e corridas do jogo ofical da F1 na palma da sua mão! 🔥
+# iRacer — As melhores ligas e corridas do jogo ofical da F1 na palma da sua mão! 🏎️🔥
 
 |    Tela de Login     |     Lista de corridas      |      Resultados da Corrida       |      Criação de Corrida      |
 | :------------------: | :------------------------: | :------------------------------: | :--------------------------: |
@@ -8,7 +8,7 @@ Olá, meu caro amigo(a)! Meu nome é Felipe Rocha, e você está presenciando o 
 
 Eu sou apaixonado por automobilismo, especialmente por F1, por videogames e, claro, por programação. Nele eu achei uma forma de unir essas três paixões em algo extraordinário.
 
-## O que é o iRacer?
+## O que é o iRacer? 🤔
 
 Antes de falar o que ele é, vou explicar pra você o problema que ele resolve. No jogo da F1, há campeonatos. Estes campeonatos são gerenciados por pessoas, que precisam, de corrida em corrida, guardar as suas informações (quem venceu, pódio, volta mais rápida etc), e elas geralmente fazem isso no Excel. Elas também precisam, após as corridas, atualizar a tabela geral da liga.
 

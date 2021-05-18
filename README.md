@@ -28,19 +28,15 @@ Portanto, vamos ver como funciona o processo de criação de uma corrida.
 
 ### Primeiro passo: Definição de circuito e configurações
 
-<div>
-    <img src="./img/track-selection.png" alt="Seleção de circuito" width="20%" style="border-radius: 10px;margin-right: 20px">
-    <img src="./img/race-settings-1.png" alt="Configurações da corrida" width="20%" style="border-radius: 10px;margin-right: 20px">
-    <img src="./img/race-settings-2.png" alt="Configurações da corrida" width="20%" style="border-radius: 10px;margin-right: 20px">
-    <img src="./img/race-creation-success.png" alt="Configurações da corrida" width="20%" style="border-radius: 10px;margin-right: 20px">
-</div>
+|      Seleção de Circuito       |    Configurações da Corrida    |    Configurações da Corrida    |     Criação de Corrida (sucesso)     |
+| :----------------------------: | :----------------------------: | :----------------------------: | :----------------------------------: |
+| ![](./img/track-selection.png) | ![](./img/race-settings-1.png) | ![](./img/race-settings-2.png) | ![](./img/race-creation-success.png) |
 
 ### Segundo passo: Entrada de participantes por meio do Código de Convite
 
-<div>
-    <img src="./img/race-entry.png" alt="Seleção de circuito" width="40%" style="border-radius: 10px;margin-right: 20px">
-    <img src="./img/pendent-race.png" alt="Configurações da corrida" width="40%" style="border-radius: 10px">
-</div>
+| Entrada na Corrida (Cód. de Convite) | Solicitação de Entrada na Corrida |
+| :----------------------------------: | :-------------------------------: |
+|      ![](./img/race-entry.png)       |    ![](./img/pendent-race.png)    |
 
 ### Terceiro passo: Aprovação de pilotos pendentes
 
@@ -49,3 +45,7 @@ Portanto, vamos ver como funciona o processo de criação de uma corrida.
     <img src="./img/pendent-drivers.png" alt="Seleção de circuito" width="30%" style="border-radius: 10px;margin-right: 20px">
     <img src="./img/race-after-driver-approval.png" alt="Seleção de circuito" width="30%" style="border-radius: 10px;margin-right: 20px">
 </div>
+
+|      Corridas Pendentes      |       Pilotos Pendentes        | Corrida Após Aprovação de Piloto (iFMRocha) |
+| :--------------------------: | :----------------------------: | :-----------------------------------------: |
+| ![](./img/pendent-races.png) | ![](./img/pendent-drivers.png) |  ![](./img/race-after-driver-approval.png)  |

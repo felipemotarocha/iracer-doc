@@ -90,3 +90,7 @@ Em um futuro próximo, onde as ligas estaraão implementadas, esses resultados s
 ## Utilização no Expo
 
 Você pode utilizar o iRacer gratuitamente pelo Expo. Basta [clicar aqui](https://expo.io/@iracer/projects/iRacer) e escanear o QR Code em um celular Android.
+
+## Entre em Contato
+
+O código do iRacer está em um repositório privado. Caso queira saber mais sobre ele ou conversar comigo, fique a vontade para me mandar uma mensagem em meu LinkedIn, [clicando aqui](https://www.linkedin.com/in/felipe-rocha-034871172/), ou nas minhas outras redes sociais, que estão em meu perfil aqui do GitHub.

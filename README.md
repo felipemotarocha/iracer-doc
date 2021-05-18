@@ -4,7 +4,7 @@
 | :------------------: | :------------------------: | :------------------------------: | :--------------------------: |
 | ![](./img/login.png) | ![](./img/racing-list.png) | ![](./img/edit-race-results.png) | ![](./img/race-creation.png) |
 
-Olá, meu caro amigo(a)! Meu nome é Felipe Rocha, e você está presenciando o projeto mais ambicioso (e incrível haha!) que eu tenho atualmente — o iRacer.
+Olá, meu(inha) caro(a) amigo(a)! Meu nome é Felipe Rocha, e você está presenciando o projeto mais ambicioso (e incrível haha!) que eu tenho atualmente — o iRacer.
 
 Eu sou apaixonado por automobilismo, especialmente por F1, por videogames e, claro, por programação. Nele eu achei uma forma de unir essas três paixões em algo extraordinário.
 
@@ -12,7 +12,7 @@ Eu sou apaixonado por automobilismo, especialmente por F1, por videogames e, cla
 
 Antes de falar o que ele é, vou explicar pra você o problema que ele resolve. No jogo da F1, há campeonatos. Estes campeonatos são gerenciados por pessoas, que precisam, de corrida em corrida, guardar as suas informações (quem venceu, pódio, volta mais rápida etc), e elas geralmente fazem isso no Excel. Elas também precisam, após as corridas, atualizar a tabela geral da liga.
 
-Este é um processo que é beeeem chato, e que desestimula as pessoas a criarem os seus próprios campeonatos, uma vez que elas precisam dedicar um bom tempo para atualizar os seus dados corretamente — e essa dificuldade aumenta exponencialmente com o número de participantes.
+Este é um processo beeeem chato, e que desestimula as pessoas a criarem os seus próprios campeonatos, uma vez que elas precisam dedicar um bom tempo para atualizar os seus dados corretamente — e essa dificuldade aumenta exponencialmente com o número de participantes.
 
 Maaas, para a felicidade de todos (rs) eu criei o iRacer. Ele calcula toda a tabela geral da liga automaticamente se baseando nos resultados das corridas, ou seja, ele tira uma camada de complexidade muito grande das costas do dono do campeonato — que é o gerenciamento e condensamento dos resultados das corridas. Além disso, ele guarda todas as estatísticas de cada piloto em seu próprio perfil. Por exemplo, se eu venci uma corrida e fiz a volta mais rápida, eu ganho +1 vitória e +1 volta mais rápida em meu perfil de piloto:
 

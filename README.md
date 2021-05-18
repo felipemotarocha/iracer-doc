@@ -40,12 +40,6 @@ Portanto, vamos ver como funciona o processo de criação de uma corrida.
 
 ### Terceiro passo: Aprovação de pilotos pendentes
 
-<div>
-    <img src="./img/pendent-races.png" alt="Configurações da corrida" width="30%" style="border-radius: 10px;margin-right: 20px">
-    <img src="./img/pendent-drivers.png" alt="Seleção de circuito" width="30%" style="border-radius: 10px;margin-right: 20px">
-    <img src="./img/race-after-driver-approval.png" alt="Seleção de circuito" width="30%" style="border-radius: 10px;margin-right: 20px">
-</div>
-
 |      Corridas Pendentes      |       Pilotos Pendentes        | Corrida Após Aprovação de Piloto (iFMRocha) |
 | :--------------------------: | :----------------------------: | :-----------------------------------------: |
 | ![](./img/pendent-races.png) | ![](./img/pendent-drivers.png) |  ![](./img/race-after-driver-approval.png)  |

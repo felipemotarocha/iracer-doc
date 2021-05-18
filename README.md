@@ -49,3 +49,40 @@ Portanto, vamos ver como funciona o processo de criação de uma corrida.
 |          Opções da Corrida          | Confirmação de Finalização da Corrida |       Finalização da Corrida       |
 | :---------------------------------: | :-----------------------------------: | :--------------------------------: |
 | ![](./img/race-details-options.png) |  ![](./img/finish-race-confirm.png)   | ![](./img/finish-race-success.png) |
+
+### Quinto passo: Edição dos resultados da corrida
+
+|    Opções da Corrida (finalizada)    |       Edição dos Resultados        | Atribuição de Volta Mais Rápida e/ou Pole Position |        Salvamento das Alterações         |
+| :----------------------------------: | :--------------------------------: | :------------------------------------------------: | :--------------------------------------: |
+| ![](./img/finished-race-options.png) | ![](./img/edit-race-results-2.png) |        ![](./img/pole-and-fastest-lap.png)         | ![](./img/race-results-after-saving.png) |
+
+Agora, os resultados da corrida — grid final, piloto que fez a volta mais rápida e a pole position — foram salvos. Muito simples, não é? E o melhor de tudo: nada de Excel!
+Em um futuro próximo, onde as ligas estaraão implementadas, esses resultados serão condensados e a tabela do campeonato será construída automaticamente.
+
+## Funcionalidades Implementadas (Done ✅)
+
+✅ Autenticação (email/senha e Google OAuth)
+
+✅ Criação e edição de corridas
+
+✅ Entrada em corridas (como piloto titular ou reserva)
+
+✅ Captura dos resultados de uma corrida (grid final, pódio, volta mais rápida e pole position)
+
+✅ Registro das estatísticas do usuário (títulos, vitórias, pódios, pole positions e voltas mais rápidas) em seu Perfil de Piloto
+
+✅ Validações em todos os formulários implementados até agora
+
+## Funcionalidades a Serem Implementadas (To Do 🚀)
+
+🚀 Criação e edição de ligas
+
+🚀 Geração de resultados de uma liga (campeonato de construtores e de pilotos) baseando-se em suas corridas
+
+## Tecnologias Utilizadas 🛠
+
+**Front-end:** React Native, Expo, Apollo Client (com GraphQL), TypeScript, Styled Components.
+
+**Back-end:** NestJS, GraphQL, TypeScript, Docker, Jest & SuperTest (E2E tests).
+
+**DevOps:**: CI/CD para testar, buildar e fazer o deploy do back-end para a AWS ECS (com Docker; ECR) e/ou Heroku; CI/CD para testar, buildar e fazer deploy do front-end para o Expo (expo publish).

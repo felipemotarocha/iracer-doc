@@ -16,10 +16,9 @@ Este é um processo que é beeeem chato, e que desestimula as pessoas a criarem 
 
 Maaas, para a felicidade de todos (rs) eu criei o iRacer. Ele calcula toda a tabela geral da liga automaticamente se baseando nos resultados das corridas, ou seja, ele tira uma camada de complexidade muito grande das costas do dono do campeonato — que é o gerenciamento e condensamento dos resultados das corridas. Além disso, ele guarda todas as estatísticas de cada piloto em seu próprio perfil. Por exemplo, se eu venci uma corrida e fiz a volta mais rápida, eu ganho +1 vitória e +1 volta mais rápida em meu perfil de piloto:
 
-<div>
-  <img src="./img/race-details.png" alt="Resultados da corrida" width="40%" style="border-radius: 10px;margin-right: 20px">
-    <img src="./img/driver-profile.png" alt="Perfil de Piloto" width="40%" style="border-radius: 10px">
-</div>
+|     Detalhes da Corrida     |       Perfil de Piloto        |
+| :-------------------------: | :---------------------------: |
+| ![](./img/race-details.png) | ![](./img/driver-profile.png) |
 
 ## Processo de Criação e Finalização de uma Corrida
 

@@ -1,4 +1,4 @@
-# iRacer — As melhores ligas e corridas do jogo ofical da F1 na palma da sua mão! 🏎️🔥
+# iRacer — As melhores corridas e ligas jogo ofical da F1 na palma da sua mão! 🏎️
 
 |    Tela de Login     |     Lista de corridas      |      Resultados da Corrida       |      Criação de Corrida      |
 | :------------------: | :------------------------: | :------------------------------: | :--------------------------: |
@@ -22,7 +22,7 @@ Maaas, para a felicidade de todos (rs) eu criei o iRacer. Ele calcula toda a tab
 
 ## Processo de Criação e Finalização de uma Corrida 🏁
 
-O iRacer suporta tanto a criação de ligas, como mencionei anteriormente, quanto a de corridas isoladas. A primeira funcionalidade ainda está em desenvolvimento, mas logo deve ser concluída!
+O iRacer suporta tanto a criação de ligas — como mencionei anteriormente — quanto a de corridas isoladas. A primeira funcionalidade ainda está em desenvolvimento, mas logo deve ser concluída!
 
 Portanto, vamos ver como funciona o processo de criação de uma corrida.
 
@@ -86,3 +86,7 @@ Em um futuro próximo, onde as ligas estaraão implementadas, esses resultados s
 **Back-end:** NestJS, GraphQL, TypeScript, Docker, Jest & SuperTest (E2E tests).
 
 **DevOps:**: CI/CD para testar, buildar e fazer o deploy do back-end para a AWS ECS (com Docker; ECR) e/ou Heroku; CI/CD para testar, buildar e fazer deploy do front-end para o Expo (expo publish).
+
+## Utilização no Expo
+
+Você pode utilizar o iRacer gratuitamente pelo Expo. Basta [clicar aqui](https://expo.io/@iracer/projects/iRacer) e escanear o QR Code em um celular Android.

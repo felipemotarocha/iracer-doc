@@ -1,11 +1,8 @@
 # iRacer — As melhores ligas e corridas do jogo ofical da F1 na palma da sua mão!
 
-<div>
-    <img src="./img/login.png" alt="Resultados da corrida" width="20%" style="border-radius: 10px;margin-right: 20px">
-    <img src="./img/racing-list.png" alt="Perfil de Piloto" width="20%" style="border-radius: 10px;margin-right: 20px">
-    <img src="./img/edit-race-results.png" alt="Resultados da corrida" width="20%" style="border-radius: 10px;margin-right: 20px">
-     <img src="./img/race-creation.png" alt="Resultados da corrida" width="20%" style="border-radius: 10px">
-</div>
+|    Tela de Login     |     Lista de corridas      |      Resultados da Corrida       |      Criação de Corrida      |
+| :------------------: | :------------------------: | :------------------------------: | :--------------------------: |
+| ![](./img/login.png) | ![](./img/racing-list.png) | ![](./img/edit-race-results.png) | ![](./img/race-creation.png) |
 
 Olá, meu caro amigo(a)! Meu nome é Felipe Rocha, e você está presenciando o projeto mais ambicioso (e incrível haha!) que eu tenho atualmente — o iRacer.
 

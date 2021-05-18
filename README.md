@@ -43,3 +43,9 @@ Portanto, vamos ver como funciona o processo de criação de uma corrida.
 |      Corridas Pendentes      |       Pilotos Pendentes        | Corrida Após Aprovação de Piloto (iFMRocha) |
 | :--------------------------: | :----------------------------: | :-----------------------------------------: |
 | ![](./img/pendent-races.png) | ![](./img/pendent-drivers.png) |  ![](./img/race-after-driver-approval.png)  |
+
+### Quarto passo: Finalização da corrida
+
+|          Opções da Corrida          | Confirmação de Finalização da Corrida |       Finalização da Corrida       |
+| :---------------------------------: | :-----------------------------------: | :--------------------------------: |
+| ![](./img/race-details-options.png) |  ![](./img/finish-race-confirm.png)   | ![](./img/finish-race-success.png) |

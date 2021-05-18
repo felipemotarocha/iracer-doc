@@ -1,4 +1,4 @@
-# iRacer — As melhores ligas e corridas do jogo ofical da F1 na palma da sua mão!
+# 🏎️ iRacer — As melhores ligas e corridas do jogo ofical da F1 na palma da sua mão! 🔥
 
 |    Tela de Login     |     Lista de corridas      |      Resultados da Corrida       |      Criação de Corrida      |
 | :------------------: | :------------------------: | :------------------------------: | :--------------------------: |
@@ -20,37 +20,37 @@ Maaas, para a felicidade de todos (rs) eu criei o iRacer. Ele calcula toda a tab
 | :-------------------------: | :---------------------------: |
 | ![](./img/race-details.png) | ![](./img/driver-profile.png) |
 
-## Processo de Criação e Finalização de uma Corrida
+## Processo de Criação e Finalização de uma Corrida 🏁
 
 O iRacer suporta tanto a criação de ligas, como mencionei anteriormente, quanto a de corridas isoladas. A primeira funcionalidade ainda está em desenvolvimento, mas logo deve ser concluída!
 
 Portanto, vamos ver como funciona o processo de criação de uma corrida.
 
-### Primeiro passo: Definição de circuito e configurações
+### Primeiro passo: Definição de circuito e configurações ⚙️
 
 |      Seleção de Circuito       |    Configurações da Corrida    |    Configurações da Corrida    |     Criação de Corrida (sucesso)     |
 | :----------------------------: | :----------------------------: | :----------------------------: | :----------------------------------: |
 | ![](./img/track-selection.png) | ![](./img/race-settings-1.png) | ![](./img/race-settings-2.png) | ![](./img/race-creation-success.png) |
 
-### Segundo passo: Entrada de participantes por meio do Código de Convite
+### Segundo passo: Entrada de participantes por meio do Código de Convite 🔑
 
 | Entrada na Corrida (Cód. de Convite) | Solicitação de Entrada na Corrida |
 | :----------------------------------: | :-------------------------------: |
 |      ![](./img/race-entry.png)       |    ![](./img/pendent-race.png)    |
 
-### Terceiro passo: Aprovação de pilotos pendentes
+### Terceiro passo: Aprovação de pilotos pendentes ⌛
 
 |      Corridas Pendentes      |       Pilotos Pendentes        | Corrida Após Aprovação de Piloto (iFMRocha) |
 | :--------------------------: | :----------------------------: | :-----------------------------------------: |
 | ![](./img/pendent-races.png) | ![](./img/pendent-drivers.png) |  ![](./img/race-after-driver-approval.png)  |
 
-### Quarto passo: Finalização da corrida
+### Quarto passo: Finalização da corrida ✔️
 
 |          Opções da Corrida          | Confirmação de Finalização da Corrida |       Finalização da Corrida       |
 | :---------------------------------: | :-----------------------------------: | :--------------------------------: |
 | ![](./img/race-details-options.png) |  ![](./img/finish-race-confirm.png)   | ![](./img/finish-race-success.png) |
 
-### Quinto passo: Edição dos resultados da corrida
+### Quinto passo: Edição dos resultados da corrida 📝
 
 |    Opções da Corrida (finalizada)    |       Edição dos Resultados        | Atribuição de Volta Mais Rápida e/ou Pole Position |        Salvamento das Alterações         |
 | :----------------------------------: | :--------------------------------: | :------------------------------------------------: | :--------------------------------------: |

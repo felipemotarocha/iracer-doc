@@ -85,6 +85,8 @@ Em um futuro próximo, onde as ligas estaraão implementadas, esses resultados s
 
 **Back-end:** NestJS, GraphQL, TypeScript, Docker, Jest & SuperTest (E2E tests).
 
+**Banco de Dados:** MongoDB com Mongoose.
+
 **DevOps:**: CI/CD para testar, buildar e fazer o deploy do back-end para a AWS ECS (com Docker; ECR) e/ou Heroku; CI/CD para testar, buildar e fazer deploy do front-end para o Expo (expo publish).
 
 ## Utilização no Expo 📱
